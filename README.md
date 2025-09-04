@@ -95,5 +95,5 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 <p align="center">
   <b>Not İşlemleri</b><br>
-  <img src="https://github.com/omeraslanw/OkulProjesi/blob/master/notislemleri.png alt="Not İşlemleri" width="600"/>
+  <img src="https://github.com/omeraslanw/OkulProjesi/blob/master/notislemleri.png" alt="Not İşlemleri" width="600"/>
 </p>
